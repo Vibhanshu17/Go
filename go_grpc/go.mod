@@ -1,4 +1,4 @@
-module github.com/Vibhanshu17/Go.git
+module github.com/Vibhanshu17/Go/go_grpc
 
 go 1.23.4
 
