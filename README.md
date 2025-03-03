@@ -5,6 +5,7 @@ Learning Go
 * Its a todo, lol
 * got to learn about file read/write in go, file locks & taking cli inputs
 
+```
 Usage of ./cli_todo:
   -id int
         task id to mark complete/delete
@@ -13,3 +14,4 @@ Usage of ./cli_todo:
         Choose from: 'create', 'list-all', 'mark-complete', 'delete' (default "list-all")
   -task value
         task to create
+```
